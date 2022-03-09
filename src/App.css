@@ -1,0 +1,40 @@
+body {
+  background-color:   #61dafb;
+  color: black;
+  padding: 30px;
+  font-family: Sans-Serif;
+  text-align: center;
+}
+
+.search{
+  width: 90%;
+  padding-top: 25px;
+  font-size: 35px;
+  padding-left: 25px;
+  margin-bottom: 25px;
+  border-radius: 50px;
+  text-indent: center;
+}
+.react{
+  font-size: 25px;
+}
+
+.emoji:hover {
+  background-color: white;
+  
+}
+
+.emoji{
+  width: 90%;
+  display: flex;
+  padding: 18px;
+  justify-content: space-between;
+  /* margin: 0px; */
+  border: 2px solid;
+  margin: 0px 70px 0px 70px;
+  border-radius: 50px;
+}
+
+.div{
+  margin-left: 10px;
+} 
